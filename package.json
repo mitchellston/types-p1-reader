@@ -1,18 +1,29 @@
 {
-  "name": "@types/node-p1-reader",
+  "name": "@types/p1-reader",
   "version": "1.0.0",
-  "description": "",
+  "description": "Typings for p1-reader",
   "types": "index.d.ts",
-  "keywords": [],
+  "keywords": [
+    "types",
+    "typescript",
+    "p1-reader"
+  ],
   "peerDependencies": {
     "p1-reader": "^2.0.4"
   },
-  "bugs": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchellston/types-p1-reader"
+  },
+  "bugs": {
+    "url": "https://github.com/mitchellston/types-p1-reader/issues"
+  },
   "author": {
     "name": "Mitchellston"
   },
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.1.6"
-  }
+  },
+  "private": false
 }
