@@ -1,5 +1,5 @@
 {
-  "name": "types-p1-reader",
+  "name": "p1-reader-types",
   "version": "1.0.0",
   "description": "Typings for p1-reader",
   "types": "index.d.ts",

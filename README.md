@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-npm i @mitchellston/p1-reader-types -D
+npm i p1-reader-types -D
 ```
 
 ## Setup
