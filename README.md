@@ -20,7 +20,7 @@ npm i p1-reader-types -D
     /* Modules */
     "module": "commonjs" /* Specify what module code is generated. */,
     "types": [
-      "@mitchellston/p1-reader-types"
+      "p1-reader-types"
     ] /* Specify type package names to be included without being referenced in a source file. */,
 
     /* Interop Constraints */
