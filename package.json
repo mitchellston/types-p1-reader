@@ -1,6 +1,6 @@
 {
   "name": "p1-reader-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typings for p1-reader",
   "types": "index.d.ts",
   "keywords": [
